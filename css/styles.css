@@ -45,7 +45,7 @@ body {
 }
 
 .contacts {
-  font-size: 22px;
+  font-size: 26px;
   font-weight: 700;
   line-height: 24px;
   color: #fff;
@@ -53,14 +53,14 @@ body {
 }
 
 .contacts-link {
-  font-size: 14px;
+  font-size: 17px;
   font-weight: 400;
   line-height: 24px;
   color: #878d95;
 }
 
 .contacts-text {
-  font-size: 14px;
+  font-size: 17px;
   font-weight: 700;
   line-height: 24px;
   color: #fff;
@@ -68,7 +68,7 @@ body {
 }
 
 .tech-skills {
-  font-size: 22px;
+  font-size: 26px;
   font-weight: 700;
   line-height: 24px;
   color: #fff;
@@ -82,7 +82,7 @@ body {
 }
 
 .tech-skills-text {
-  font-size: 14px;
+  font-size: 17px;
   font-weight: 400;
   line-height: 24px;
   color: #ff6b08;
@@ -99,7 +99,7 @@ body {
   margin-top: 55px;
 }
 .Soft-Skills {
-  font-size: 22px;
+  font-size: 26px;
   font-weight: 700;
   line-height: 24px;
   color: #fff;
@@ -107,7 +107,7 @@ body {
 }
 
 .soft-stills-dot {
-  font-size: 14px;
+  font-size: 17px;
   font-weight: 400;
   line-height: 24px;
   color: #ff6b08;
@@ -118,8 +118,22 @@ body {
   color: #b0b4ba;
 }
 
+.languages-container {
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-top: 55px;
+}
+
+.Languages-skills {
+  font-size: 26px;
+  font-weight: 700;
+  line-height: 24px;
+  color: #fff;
+  margin-bottom: 10px;
+}
+
 .profession {
-  font-size: 14px;
+  font-size: 23px;
   font-weight: 700;
   line-height: 24px;
   margin-bottom: 20px;
@@ -133,7 +147,7 @@ body {
 
 .description {
   color: #595959;
-  font-size: 14px;
+  font-size: 22px;
   font-weight: 400;
   line-height: 24px;
   margin-top: 24px;
@@ -144,7 +158,7 @@ body {
 }
 
 .the-bases {
-  font-size: 22px;
+  font-size: 26px;
   font-weight: 700;
   line-height: 24px;
   margin-bottom: 10px;
@@ -152,14 +166,14 @@ body {
 }
 
 .projects-link {
-  font-size: 14px;
+  font-size: 20px;
   font-weight: 400;
   line-height: 24px;
   color: #595959;
 }
 .tech-name {
   color: #595959;
-  font-size: 14px;
+  font-size: 18px;
   font-weight: 400;
   line-height: 24px;
 }
@@ -174,7 +188,7 @@ body {
 }
 
 .profession-title {
-  font-size: 16px;
+  font-size: 19px;
   font-weight: 700;
   line-height: 24px;
   margin-top: 10px;
@@ -186,7 +200,7 @@ body {
 }
 
 .company-work-date {
-  font-size: 12px;
+  font-size: 17px;
   font-weight: 400;
   line-height: 24px;
   color: #a8a8a8;
@@ -203,14 +217,14 @@ body {
 
 .profession-duties-item {
   color: #595959;
-  font-size: 14px;
+  font-size: 17px;
   font-weight: 400;
   line-height: 24px;
 }
 
 .place-of-study {
   color: #ff6b08;
-  font-size: 16px;
+  font-size: 21px;
   font-weight: 700;
   line-height: 24px;
   margin-top: 20px;
@@ -219,7 +233,7 @@ body {
 
 .education {
   color: #000000;
-  font-size: 14px;
+  font-size: 18px;
   font-weight: 700;
   line-height: 24px;
   margin-bottom: 5px;
